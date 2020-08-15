@@ -6,5 +6,5 @@ coverage:
     changes: false
     project:
       default:
-        target: 50
+        target: 100
 comment: false
